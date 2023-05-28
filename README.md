@@ -1,8 +1,8 @@
 ### Postman collection
-You can find postman collection at _https://github.com/sandeep-div/retailstore/RetailStore.postman_collection_
+You can find postman collection at _https://github.com/sandeep-div/retailstore/blob/main/RetailStore.postman_collection.json_
 
 ### UML Diagram
-You can find postman collection at _https://github.com/sandeep-div/retailstore/UML_DIAGRAM.png_
+You can find postman collection at _https://github.com/sandeep-div/retailstore/blob/main/UML_DIAGRAM.png_
 
 ### Installation
 
